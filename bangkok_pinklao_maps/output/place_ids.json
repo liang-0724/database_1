@@ -1,0 +1,391 @@
+{
+  "list_name": "曼谷 Pinklao 美食地圖",
+  "categories": {
+    "曼谷 Pinklao 美食地圖": [
+      {
+        "name": "Maruay Food Hall",
+        "address": "3, 124 Borommaratchachonnani Rd, Bangkok Noi, Bangkok",
+        "place_id": null,
+        "lat": 13.7793,
+        "lng": 100.4759
+      },
+      {
+        "name": "Indy Market Pinklao",
+        "address": "209 Charan Sanit Wong Rd, Bang Phlat, Bangkok",
+        "place_id": null,
+        "lat": 13.7849,
+        "lng": 100.4829
+      },
+      {
+        "name": "Central Pinklao",
+        "address": "7/222 Borommaratchachonnani Rd, Arun Amarin, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7787,
+        "lng": 100.4762
+      },
+      {
+        "name": "Onkijung Central Pinklao",
+        "address": "7/222 Borommaratchachonnani Rd, G Floor, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7787,
+        "lng": 100.4763
+      },
+      {
+        "name": "The Stone Central Pinklao",
+        "address": "7/222 Borommaratchachonnani Rd, 5th Floor, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7788,
+        "lng": 100.4762
+      },
+      {
+        "name": "CASA 17 Hotel",
+        "address": "163, Soi Somdet Phra Pin Klao 17, Arun Amarin, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7718,
+        "lng": 100.4793
+      }
+    ],
+    "週末景點": [
+      {
+        "name": "Grand Palace & Wat Phra Kaew",
+        "address": "Na Phra Lan Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.75,
+        "lng": 100.4915
+      },
+      {
+        "name": "Wat Pho (Reclining Buddha)",
+        "address": "2 Sanam Chai Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7465,
+        "lng": 100.4927
+      },
+      {
+        "name": "Tha Maharaj",
+        "address": "1/11 Trok Mahathat, Maharaj Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7568,
+        "lng": 100.4905
+      },
+      {
+        "name": "Wat Arun (Temple of Dawn)",
+        "address": "158 Thanon Wang Doem, Wat Arun, Bangkok Yai, Bangkok",
+        "place_id": null,
+        "lat": 13.7437,
+        "lng": 100.4889
+      },
+      {
+        "name": "ICONSIAM",
+        "address": "299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.7264,
+        "lng": 100.51
+      },
+      {
+        "name": "The Jam Factory",
+        "address": "41/1-5 Charoen Nakhon Rd, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.7283,
+        "lng": 100.5089
+      },
+      {
+        "name": "Chatuchak Weekend Market",
+        "address": "587/10 Kamphaeng Phet 2 Rd, Chatuchak, Bangkok",
+        "place_id": null,
+        "lat": 13.7999,
+        "lng": 100.5503
+      },
+      {
+        "name": "Or Tor Kor Market",
+        "address": "101 Kamphaeng Phet Rd, Chatuchak, Bangkok",
+        "place_id": null,
+        "lat": 13.8045,
+        "lng": 100.549
+      },
+      {
+        "name": "JJ Green / Ari neighbourhood",
+        "address": "Ari, Phaya Thai, Bangkok",
+        "place_id": null,
+        "lat": 13.7796,
+        "lng": 100.5446
+      },
+      {
+        "name": "Terminal 21 Asok",
+        "address": "88 Sukhumvit Soi 19, Watthana, Bangkok",
+        "place_id": null,
+        "lat": 13.7376,
+        "lng": 100.5601
+      },
+      {
+        "name": "EmSphere / The Em District",
+        "address": "628 Sukhumvit Rd, Khlong Tan, Khlong Toei, Bangkok",
+        "place_id": null,
+        "lat": 13.7305,
+        "lng": 100.5697
+      },
+      {
+        "name": "Benjakitti Forest Park",
+        "address": "Ratchadaphisek Rd, Khlong Toei, Bangkok",
+        "place_id": null,
+        "lat": 13.724,
+        "lng": 100.56
+      },
+      {
+        "name": "Yaowarat (Chinatown)",
+        "address": "Yaowarat Rd, Samphanthawong, Bangkok",
+        "place_id": null,
+        "lat": 13.7404,
+        "lng": 100.5093
+      },
+      {
+        "name": "Wat Traimit (Golden Buddha)",
+        "address": "661 Charoen Krung Rd, Talat Noi, Samphanthawong, Bangkok",
+        "place_id": null,
+        "lat": 13.7373,
+        "lng": 100.5135
+      },
+      {
+        "name": "Talat Noi",
+        "address": "Talat Noi, Samphanthawong, Bangkok",
+        "place_id": null,
+        "lat": 13.7355,
+        "lng": 100.5145
+      },
+      {
+        "name": "Asiatique The Riverfront",
+        "address": "2194 Charoen Krung Rd, Wat Phraya Krai, Bang Kho Laem, Bangkok",
+        "place_id": null,
+        "lat": 13.7045,
+        "lng": 100.5085
+      },
+      {
+        "name": "Lhong 1919",
+        "address": "248 Chiang Mai Rd, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.7308,
+        "lng": 100.507
+      },
+      {
+        "name": "Bang Krachao (Green Lung) Cycling",
+        "address": "Bang Kachao, Phra Pradaeng, Samut Prakan",
+        "place_id": null,
+        "lat": 13.696,
+        "lng": 100.548
+      },
+      {
+        "name": "Bang Nam Phueng Floating Market",
+        "address": "Bang Nam Phueng, Phra Pradaeng, Samut Prakan",
+        "place_id": null,
+        "lat": 13.6905,
+        "lng": 100.564
+      },
+      {
+        "name": "Phra Athit Road & Banglamphu",
+        "address": "Phra Athit Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7625,
+        "lng": 100.4945
+      },
+      {
+        "name": "Khaosan Road",
+        "address": "Khaosan Rd, Talat Yot, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7588,
+        "lng": 100.4974
+      }
+    ],
+    "平日晚上": [
+      {
+        "name": "Indy Market Pinklao",
+        "address": "209 Charan Sanit Wong Rd, Bang Phlat, Bangkok",
+        "place_id": null,
+        "lat": 13.7849,
+        "lng": 100.4829
+      },
+      {
+        "name": "Central Pinklao",
+        "address": "7/222 Borommaratchachonnani Rd, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7787,
+        "lng": 100.4762
+      },
+      {
+        "name": "Sena Fest",
+        "address": "Borommaratchachonnani Rd, Taling Chan, Bangkok",
+        "place_id": null,
+        "lat": 13.7846,
+        "lng": 100.453
+      },
+      {
+        "name": "Tha Maharaj Riverside",
+        "address": "Maharaj Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7568,
+        "lng": 100.4905
+      },
+      {
+        "name": "Wang Lang Market (Siriraj)",
+        "address": "Wang Lang Rd, Siriraj, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7588,
+        "lng": 100.4853
+      },
+      {
+        "name": "Phra Athit Road",
+        "address": "Phra Athit Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7625,
+        "lng": 100.4945
+      },
+      {
+        "name": "Khaosan Road",
+        "address": "Khaosan Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7588,
+        "lng": 100.4974
+      },
+      {
+        "name": "Yodpiman River Walk",
+        "address": "Chakkraphet Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7415,
+        "lng": 100.497
+      },
+      {
+        "name": "Pak Khlong Talat (Flower Market)",
+        "address": "Chak Phet Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.742,
+        "lng": 100.4965
+      },
+      {
+        "name": "Saphan Phut Night Market",
+        "address": "Memorial Bridge, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7405,
+        "lng": 100.4975
+      },
+      {
+        "name": "ICONSIAM",
+        "address": "299 Charoen Nakhon Rd, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.7264,
+        "lng": 100.51
+      },
+      {
+        "name": "The Jam Factory",
+        "address": "41/1-5 Charoen Nakhon Rd, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.7283,
+        "lng": 100.5089
+      },
+      {
+        "name": "Lhong 1919",
+        "address": "248 Chiang Mai Rd, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.7308,
+        "lng": 100.507
+      },
+      {
+        "name": "Tha Tien Pier & The Deck",
+        "address": "Maha Rat Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7438,
+        "lng": 100.4915
+      },
+      {
+        "name": "Banglamphu Walking Street",
+        "address": "Banglamphu, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.761,
+        "lng": 100.496
+      },
+      {
+        "name": "Tha Phra / The Mall Lifestore",
+        "address": "Charan Sanit Wong Rd, Bangkok Yai, Bangkok",
+        "place_id": null,
+        "lat": 13.7237,
+        "lng": 100.476
+      },
+      {
+        "name": "Riva Surya Riverside",
+        "address": "23 Phra Athit Rd, Phra Nakhon, Bangkok",
+        "place_id": null,
+        "lat": 13.7635,
+        "lng": 100.494
+      },
+      {
+        "name": "Bang Phlat Café Street",
+        "address": "Charan Sanit Wong Soi, Bang Phlat, Bangkok",
+        "place_id": null,
+        "lat": 13.79,
+        "lng": 100.4865
+      },
+      {
+        "name": "The Sense Pinklao",
+        "address": "Borommaratchachonnani Rd, Bang Bamru, Bangkok",
+        "place_id": null,
+        "lat": 13.7846,
+        "lng": 100.469
+      },
+      {
+        "name": "Supreme Pinklao Community Mall",
+        "address": "Somdet Phra Pin Klao Rd, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7745,
+        "lng": 100.4805
+      }
+    ],
+    "咖啡廳": [
+      {
+        "name": "Factory Coffee",
+        "address": "49 Phaya Thai Rd, Ratchathewi, Bangkok",
+        "place_id": null,
+        "lat": 13.7565,
+        "lng": 100.533
+      },
+      {
+        "name": "Roots Coffee (ICONSIAM)",
+        "address": "299 Charoen Nakhon Rd, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.7264,
+        "lng": 100.51
+      },
+      {
+        "name": "Gallery Drip Coffee (BACC)",
+        "address": "939 Rama I Rd, Wang Mai, Pathum Wan, Bangkok",
+        "place_id": null,
+        "lat": 13.7466,
+        "lng": 100.53
+      },
+      {
+        "name": "Pacamara Boutique Coffee Roasters",
+        "address": "Ari area, Phaya Thai, Bangkok",
+        "place_id": null,
+        "lat": 13.78,
+        "lng": 100.544
+      },
+      {
+        "name": "Hands and Heart",
+        "address": "Soi Itsaraphap 21, Khlong San, Bangkok",
+        "place_id": null,
+        "lat": 13.733,
+        "lng": 100.4985
+      },
+      {
+        "name": "Karb Coffee (Pinklao)",
+        "address": "Charan Sanit Wong Rd, Bang Phlat, Bangkok",
+        "place_id": null,
+        "lat": 13.7872,
+        "lng": 100.4845
+      },
+      {
+        "name": "The Coffee Cup Pinklao",
+        "address": "Borommaratchachonnani Rd, Bangkok Noi",
+        "place_id": null,
+        "lat": 13.7795,
+        "lng": 100.474
+      }
+    ]
+  }
+}

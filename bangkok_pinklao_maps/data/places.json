@@ -1,0 +1,77 @@
+{
+  "list_name": "曼谷 Pinklao 美食地圖",
+  "home_base": {
+    "name": "CASA 17 Hotel",
+    "address": "163, Soi Somdet Phra Pin Klao 17, Arun Amarin, Bangkok Noi",
+    "lat": 13.7718,
+    "lng": 100.4793
+  },
+  "note": "座標為依公開資訊整理之近似值，僅供 KML 匯入定位用；執行 fetch_place_ids.py 並帶入有效 API Key 可取得官方精確座標與 place_id。營業時間/花費為概估，出發前請再確認。",
+  "categories": {
+    "曼谷 Pinklao 美食地圖": [
+      {"name": "Maruay Food Hall", "address": "3, 124 Borommaratchachonnani Rd, Bangkok Noi, Bangkok", "lat": 13.7793, "lng": 100.4759, "notes": "Pinklao 在地美食廣場，平價多樣"},
+      {"name": "Indy Market Pinklao", "address": "209 Charan Sanit Wong Rd, Bang Phlat, Bangkok", "lat": 13.7849, "lng": 100.4829, "notes": "人氣夜市，街頭小吃、服飾、現場音樂"},
+      {"name": "Central Pinklao", "address": "7/222 Borommaratchachonnani Rd, Arun Amarin, Bangkok Noi", "lat": 13.7787, "lng": 100.4762, "notes": "本區主要購物中心，餐廳、超市、影城"},
+      {"name": "Onkijung Central Pinklao", "address": "7/222 Borommaratchachonnani Rd, G Floor, Bangkok Noi", "lat": 13.7787, "lng": 100.4763, "notes": "韓式烤肉，位於 Central Pinklao G 樓"},
+      {"name": "The Stone Central Pinklao", "address": "7/222 Borommaratchachonnani Rd, 5th Floor, Bangkok Noi", "lat": 13.7788, "lng": 100.4762, "notes": "餐廳，位於 Central Pinklao 5 樓"},
+      {"name": "CASA 17 Hotel", "address": "163, Soi Somdet Phra Pin Klao 17, Arun Amarin, Bangkok Noi", "lat": 13.7718, "lng": 100.4793, "notes": "住宿地點 / 本行程出發基地"}
+    ],
+    "週末景點": [
+      {"name": "Grand Palace & Wat Phra Kaew", "address": "Na Phra Lan Rd, Phra Borom Maha Ratchawang, Phra Nakhon, Bangkok", "lat": 13.7500, "lng": 100.4915, "notes": "週末1-D1｜大皇宮與玉佛寺，需著長袖長褲｜美食：Err Urban Rustic Thai（在地泰菜）"},
+      {"name": "Wat Pho (Reclining Buddha)", "address": "2 Sanam Chai Rd, Phra Nakhon, Bangkok", "lat": 13.7465, "lng": 100.4927, "notes": "週末1-D1｜臥佛寺、泰式按摩發源地｜美食：The Deck by Arun Residence 河景餐廳"},
+      {"name": "Tha Maharaj", "address": "1/11 Trok Mahathat, Maharaj Rd, Phra Nakhon, Bangkok", "lat": 13.7568, "lng": 100.4905, "notes": "週末1-D1｜河岸文青商場｜美食：Savoey 海鮮、Pa Aew 路邊咖哩飯"},
+      {"name": "Wat Arun (Temple of Dawn)", "address": "158 Thanon Wang Doem, Wat Arun, Bangkok Yai, Bangkok", "lat": 13.7437, "lng": 100.4889, "notes": "週末1-D2｜鄭王廟，傍晚與夜間打燈最美｜美食：Eagle Nest 屋頂酒吧看廟"},
+      {"name": "ICONSIAM", "address": "299 Charoen Nakhon Rd, Khlong Ton Sai, Khlong San, Bangkok", "lat": 13.7264, "lng": 100.5100, "notes": "週末1-D2｜河岸地標商場｜美食：SookSiam 室內水上市場美食街"},
+      {"name": "The Jam Factory", "address": "41/1-5 Charoen Nakhon Rd, Khlong San, Bangkok", "lat": 13.7283, "lng": 100.5089, "notes": "週末1-D2｜文創倉庫聚落｜美食：The Never Ending Summer 泰式創意菜"},
+
+      {"name": "Chatuchak Weekend Market", "address": "587/10 Kamphaeng Phet 2 Rd, Chatuchak, Bangkok", "lat": 13.7999, "lng": 100.5503, "notes": "週末2-D1｜全球最大週末市集（僅週末），建議上午到｜美食：市場內泰式小吃、椰子冰淇淋"},
+      {"name": "Or Tor Kor Market", "address": "101 Kamphaeng Phet Rd, Chatuchak, Bangkok", "lat": 13.8045, "lng": 100.5490, "notes": "週末2-D1｜高級生鮮與熟食市場｜美食：泰式咖哩、芒果糯米、海鮮"},
+      {"name": "JJ Green / Ari neighbourhood", "address": "Ari, Phaya Thai, Bangkok", "lat": 13.7796, "lng": 100.5446, "notes": "週末2-D1晚｜Ari 文青街區｜美食：Salt、Ari 巷弄咖啡與酒吧"},
+      {"name": "Terminal 21 Asok", "address": "88 Sukhumvit Soi 19, Watthana, Bangkok", "lat": 13.7376, "lng": 100.5601, "notes": "週末2-D2｜各國主題樓層商場｜美食：Pier 21 平價美食街"},
+      {"name": "EmSphere / The Em District", "address": "628 Sukhumvit Rd, Khlong Tan, Khlong Toei, Bangkok", "lat": 13.7305, "lng": 100.5697, "notes": "週末2-D2｜新潮商場（含 UNIQLO、夜間市集）｜美食：EmSphere Food Hall、燒肉"},
+      {"name": "Benjakitti Forest Park", "address": "Ratchadaphisek Rd, Khlong Toei, Bangkok", "lat": 13.7240, "lng": 100.5600, "notes": "週末2-D2｜城市森林公園空中步道｜美食：附近 Sukhumvit 餐廳林立"},
+
+      {"name": "Yaowarat (Chinatown)", "address": "Yaowarat Rd, Samphanthawong, Bangkok", "lat": 13.7404, "lng": 100.5093, "notes": "週末3-D1｜唐人街街頭美食天堂（傍晚最熱鬧）｜美食：T&K Seafood、Nai Ek 豬肉粥、烤栗子"},
+      {"name": "Wat Traimit (Golden Buddha)", "address": "661 Charoen Krung Rd, Talat Noi, Samphanthawong, Bangkok", "lat": 13.7373, "lng": 100.5135, "notes": "週末3-D1｜純金大佛｜美食：Talat Noi 巷弄老咖啡與壁畫"},
+      {"name": "Talat Noi", "address": "Talat Noi, Samphanthawong, Bangkok", "lat": 13.7355, "lng": 100.5145, "notes": "週末3-D1｜老社區、壁畫、文青咖啡｜美食：Hong Sieng Kong 河景咖啡"},
+      {"name": "Asiatique The Riverfront", "address": "2194 Charoen Krung Rd, Wat Phraya Krai, Bang Kho Laem, Bangkok", "lat": 13.7045, "lng": 100.5085, "notes": "週末3-D2｜河岸夜間市集與摩天輪｜美食：Baan Khanitha 泰菜、河鮮"},
+      {"name": "Lhong 1919", "address": "248 Chiang Mai Rd, Khlong San, Bangkok", "lat": 13.7308, "lng": 100.5070, "notes": "週末3-D2｜中式古宅河岸景點｜美食：園區內泰式咖啡與小館"},
+
+      {"name": "Bang Krachao (Green Lung) Cycling", "address": "Bang Kachao, Phra Pradaeng, Samut Prakan", "lat": 13.6960, "lng": 100.5480, "notes": "週末4-D1｜城市綠肺單車一日遊（搭船過河租車）｜美食：當地椰糖、河畔小吃"},
+      {"name": "Bang Nam Phueng Floating Market", "address": "Bang Nam Phueng, Phra Pradaeng, Samut Prakan", "lat": 13.6905, "lng": 100.5640, "notes": "週末4-D1｜僅週末開放的在地水上市場｜美食：炭烤、椰子甜點、現做泰式小吃"},
+      {"name": "Phra Athit Road & Banglamphu", "address": "Phra Athit Rd, Phra Nakhon, Bangkok", "lat": 13.7625, "lng": 100.4945, "notes": "週末4-D2｜河岸老城散步、文青咖啡（離 Pinklao 最近）｜美食：Jok Pochana、Krua Apsorn"},
+      {"name": "Khaosan Road", "address": "Khaosan Rd, Talat Yot, Phra Nakhon, Bangkok", "lat": 13.7588, "lng": 100.4974, "notes": "週末4-D2晚｜背包客夜生活大街｜美食：Pad Thai 攤、炸蟲、調酒"}
+    ],
+    "平日晚上": [
+      {"name": "Indy Market Pinklao", "address": "209 Charan Sanit Wong Rd, Bang Phlat, Bangkok", "lat": 13.7849, "lng": 100.4829, "notes": "夜市｜營業約 17:00–23:00（週四–日較盛）｜步行/Grab 10分｜約 150–300 THB"},
+      {"name": "Central Pinklao", "address": "7/222 Borommaratchachonnani Rd, Bangkok Noi", "lat": 13.7787, "lng": 100.4762, "notes": "商場餐飲｜約 10:00–22:00｜步行/Grab 5–10分｜約 200–400 THB"},
+      {"name": "Sena Fest", "address": "Borommaratchachonnani Rd, Taling Chan, Bangkok", "lat": 13.7846, "lng": 100.4530, "notes": "社區型商場｜約 10:00–22:00｜Grab 10–15分｜約 200–350 THB"},
+      {"name": "Tha Maharaj Riverside", "address": "Maharaj Rd, Phra Nakhon, Bangkok", "lat": 13.7568, "lng": 100.4905, "notes": "河岸商場｜約 10:00–22:00｜Grab/渡船 15分｜約 250–450 THB"},
+      {"name": "Wang Lang Market (Siriraj)", "address": "Wang Lang Rd, Siriraj, Bangkok Noi", "lat": 13.7588, "lng": 100.4853, "notes": "在地市場美食｜約 08:00–20:00｜Grab 10分｜約 100–250 THB"},
+      {"name": "Phra Athit Road", "address": "Phra Athit Rd, Phra Nakhon, Bangkok", "lat": 13.7625, "lng": 100.4945, "notes": "河岸咖啡酒吧街｜約 11:00–24:00｜Grab 15分｜約 200–500 THB"},
+      {"name": "Khaosan Road", "address": "Khaosan Rd, Phra Nakhon, Bangkok", "lat": 13.7588, "lng": 100.4974, "notes": "夜生活｜約 18:00–02:00｜Grab 15分｜約 200–600 THB"},
+      {"name": "Yodpiman River Walk", "address": "Chakkraphet Rd, Phra Nakhon, Bangkok", "lat": 13.7415, "lng": 100.4970, "notes": "河岸商場＋鮮花市場｜約 10:00–22:00｜Grab 20分｜約 150–400 THB"},
+      {"name": "Pak Khlong Talat (Flower Market)", "address": "Chak Phet Rd, Phra Nakhon, Bangkok", "lat": 13.7420, "lng": 100.4965, "notes": "24小時鮮花市場，夜晚最美｜Grab 20分｜約 50–200 THB"},
+      {"name": "Saphan Phut Night Market", "address": "Memorial Bridge, Phra Nakhon, Bangkok", "lat": 13.7405, "lng": 100.4975, "notes": "橋下夜市｜約 19:00–24:00｜Grab 20分｜約 100–300 THB"},
+      {"name": "ICONSIAM", "address": "299 Charoen Nakhon Rd, Khlong San, Bangkok", "lat": 13.7264, "lng": 100.5100, "notes": "河岸商場＋燈光秀｜約 10:00–22:00｜Grab/渡船 20分｜約 250–600 THB"},
+      {"name": "The Jam Factory", "address": "41/1-5 Charoen Nakhon Rd, Khlong San, Bangkok", "lat": 13.7283, "lng": 100.5089, "notes": "文創餐飲｜約 10:30–20:00｜Grab 20分｜約 250–450 THB"},
+      {"name": "Lhong 1919", "address": "248 Chiang Mai Rd, Khlong San, Bangkok", "lat": 13.7308, "lng": 100.5070, "notes": "河岸古宅夜景｜約 08:00–22:00｜Grab 20分｜約 150–400 THB"},
+      {"name": "Tha Tien Pier & The Deck", "address": "Maha Rat Rd, Phra Nakhon, Bangkok", "lat": 13.7438, "lng": 100.4915, "notes": "看 Wat Arun 夜景餐廳｜約 11:00–22:00｜Grab/渡船 20分｜約 400–800 THB"},
+      {"name": "Banglamphu Walking Street", "address": "Banglamphu, Phra Nakhon, Bangkok", "lat": 13.7610, "lng": 100.4960, "notes": "老城散步美食｜約 17:00–23:00｜Grab 15分｜約 150–350 THB"},
+      {"name": "Tha Phra / The Mall Lifestore", "address": "Charan Sanit Wong Rd, Bangkok Yai, Bangkok", "lat": 13.7237, "lng": 100.4760, "notes": "MRT Tha Phra 旁商場｜約 10:00–22:00｜MRT/Grab 15分｜約 200–400 THB"},
+      {"name": "Riva Surya Riverside", "address": "23 Phra Athit Rd, Phra Nakhon, Bangkok", "lat": 13.7635, "lng": 100.4940, "notes": "河岸餐廳酒廊｜約 11:00–23:00｜Grab 15分｜約 400–800 THB"},
+      {"name": "Bang Phlat Café Street", "address": "Charan Sanit Wong Soi, Bang Phlat, Bangkok", "lat": 13.7900, "lng": 100.4865, "notes": "在地咖啡/小館聚落｜約 09:00–21:00｜步行/Grab 10分｜約 120–300 THB"},
+      {"name": "The Sense Pinklao", "address": "Borommaratchachonnani Rd, Bang Bamru, Bangkok", "lat": 13.7846, "lng": 100.4690, "notes": "社區商場餐飲｜約 10:00–22:00｜Grab 10分｜約 150–350 THB"},
+      {"name": "Supreme Pinklao Community Mall", "address": "Somdet Phra Pin Klao Rd, Bangkok Noi", "lat": 13.7745, "lng": 100.4805, "notes": "鄰近住宿的餐飲商場｜約 10:00–22:00｜步行 5–10分｜約 150–350 THB"}
+    ],
+    "咖啡廳": [
+      {"name": "Factory Coffee", "address": "49 Phaya Thai Rd, Ratchathewi, Bangkok", "lat": 13.7565, "lng": 100.5330, "notes": "世界沖煮賽冠軍店｜約 08:30–18:00｜販豆：多國單品（衣索比亞、哥倫比亞），淺中焙｜招牌：手沖單品、Signature 創意飲"},
+      {"name": "Roots Coffee (ICONSIAM)", "address": "299 Charoen Nakhon Rd, Khlong San, Bangkok", "lat": 13.7264, "lng": 100.5100, "notes": "曼谷知名自家烘焙｜約 10:00–22:00｜販豆：泰國北部＋進口單品，淺至中焙｜招牌：拿鐵、黑糖系列"},
+      {"name": "Gallery Drip Coffee (BACC)", "address": "939 Rama I Rd, Wang Mai, Pathum Wan, Bangkok", "lat": 13.7466, "lng": 100.5300, "notes": "藝術中心內手沖名店｜約 10:30–19:30｜販豆：精選單品手沖豆，淺焙｜招牌：手沖單品"},
+      {"name": "Pacamara Boutique Coffee Roasters", "address": "Ari area, Phaya Thai, Bangkok", "lat": 13.7800, "lng": 100.5440, "notes": "連鎖自家烘焙｜約 07:00–20:00｜販豆：自家烘焙綜合與單品，中焙為主｜招牌：Dirty、冷萃"},
+      {"name": "Hands and Heart", "address": "Soi Itsaraphap 21, Khlong San, Bangkok", "lat": 13.7330, "lng": 100.4985, "notes": "河西岸精品名店（離 Pinklao 近）｜約 08:00–17:00｜販豆：精選競標級單品，淺焙｜招牌：手沖、Espresso Tonic"},
+      {"name": "Karb Coffee (Pinklao)", "address": "Charan Sanit Wong Rd, Bang Phlat, Bangkok", "lat": 13.7872, "lng": 100.4845, "notes": "Pinklao 在地小店｜約 08:00–18:00｜販豆：泰國本地烘焙豆｜招牌：拿鐵、手沖"},
+      {"name": "The Coffee Cup Pinklao", "address": "Borommaratchachonnani Rd, Bangkok Noi", "lat": 13.7795, "lng": 100.4740, "notes": "本區友善咖啡館｜約 08:00–20:00｜販豆：自選綜合豆｜招牌：濃縮、甜點搭配"}
+    ]
+  }
+}
